@@ -1,0 +1,88 @@
+{
+ "sections": [
+  {
+   "id": "ef8c4cb0-5587-bf1b-9721-2ac14e82539f",
+   "title": "Recap",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-ef8c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7deb73fb-9a7e-f60c-2ba8-f5e138b0bf45",
+   "title": "What we'll learn",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-7deb.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "58909ba3-8a67-cd13-763d-b4a1c3b5c777",
+   "title": "Analysing the schema",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Analysing-the-schema-5890.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7b8719de-f360-da5d-84ea-549ffae3f6d1",
+   "title": "Showing column data",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Updating-table-data-7b87.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f457d427-15fa-7ca-9ad8-9af47771632f",
+   "title": "Float and Datetime",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Float-and-Datetime-f457.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "29faa63d-27c2-4f18-9740-93427bf83d13",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-29fa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ac6ca750-f3cf-8af9-1011-b38ae5b7f006",
+   "title": "Data modification",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-modification-ac6c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
