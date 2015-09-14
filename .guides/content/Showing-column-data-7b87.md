@@ -1,4 +1,4 @@
-First, let's evaluate the `SHOW COLUMNS FROM trips;` table. 
+First, let's evaluate the `trips` table with the `SHOW COLUMNS FROM trips;` statement.
 
 The output should be this:
 

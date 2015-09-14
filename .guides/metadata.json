@@ -27,8 +27,18 @@
   {
    "id": "58909ba3-8a67-cd13-763d-b4a1c3b5c777",
    "title": "Analysing the schema",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Analysing-the-schema-5890.md",
@@ -42,7 +52,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Updating-table-data-7b87.md",
+   "content-file": ".guides/content/Showing-column-data-7b87.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
