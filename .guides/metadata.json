@@ -90,6 +90,92 @@
    "chapter": true,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "7d65c3b3-2b69-92f5-2f37-7c10bbdd4917",
+   "title": "SQL UPDATE",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-UPDATE-7d65.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "74bb7379-d41b-a55e-fcbe-bb22fa2486f3",
+   "title": "Updating data",
+   "files": [
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Updating-data-74bb.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "35be4f06-a75d-6db3-42f5-e174aa43b8d0",
+   "title": "Updating data",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Updating-data-35be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "aa3a3591-d923-edc6-8ad0-c6caccfc32f8",
+   "title": "Update multiple columns",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Update-multiple-columns-aa3a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dbf2ebce-e306-7173-6fdf-2b08cc37d578",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-dbf2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "740ffb0a-ba39-df8e-163f-693b49d12d",
+   "title": "Real world scenario",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-world-scenario-740f.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a4acd8e5-fdb3-3095-e3d2-5d994c6b31ba",
+   "title": "Omitting WHERE",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Omitting-WHERE-a4ac.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
