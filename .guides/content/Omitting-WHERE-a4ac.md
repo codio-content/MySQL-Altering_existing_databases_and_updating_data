@@ -22,8 +22,10 @@ The `registered_card` column represents a `TINYINT(size)` MySQL data type. Its v
 
 `TINYINT(size)` MySQL data types are similar to the `BOOLEAN` data types in other SQL database management systems where the values can be literally `true` or `false`.
 
-Execute an `UPDATE users` statement omitting the `WHERE` clause to see what could happen to your databases: 
+Execute an `UPDATE users` statement omitting the `WHERE` clause to see what could happen to your databases if you do so:
 
 ```
-
+mysql> UPDATE users SET registered_card = 0;
 ```
+
+See the output in the next section.

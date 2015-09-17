@@ -176,6 +176,73 @@
    "chapter": true,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "d55b9221-ae0-1474-84d6-9d945223864",
+   "title": "Output",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Output-d55b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7d24dea7-782f-bb73-1e7a-a7feab8685cb",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-7d24.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d9561f3-8435-4d4f-f651-1212f380a5f8",
+   "title": "Altering tables",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Altering-tables-d956.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "af0341aa-e332-5d8c-b8a9-a85a25795e4f",
+   "title": "Alter, Change",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Alter--Change-af03.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f55060cc-a325-5287-8ce4-f8ac8aa7976",
+   "title": "Alter, Add",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Alter--Add-f550.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "41252774-bdc4-2d12-7df1-ff4b57e7487",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-20-4125.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
