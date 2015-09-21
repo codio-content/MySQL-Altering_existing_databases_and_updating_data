@@ -2,7 +2,7 @@ As another kind of _update_ operation, the `RENAME` SQL keyword is designed to c
 
 After discussing with the `EPDriver` app business team, we discovered that the `users` must be called `passengers`.
 
-Let's rename the `users` table to `passengers`:
+Let's rename the `users` table to be `passengers`:
 
 ```
 mysql> RENAME TABLE users TO passengers;

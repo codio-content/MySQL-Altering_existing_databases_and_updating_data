@@ -15,10 +15,10 @@ This should be the output:
 
 We discovered that the `certified` column needs to be more _self-explanatory_. 
 
-Let's update its name to `certified_driver`, leaving its data type as `TINYINT(1)` (notice the order in which the column names are written, being the second one the new column name):
+Let's update its name to `is_certified_driver`, leaving its data type as `TINYINT(1)` (notice the order in which the column names are written, being the second one the new column name):
 
 ```
-mysql> ALTER TABLE drivers CHANGE certified certified_driver TINYINT(1);
+mysql> ALTER TABLE drivers CHANGE certified is_certified_driver TINYINT(1);
 ```
 
 And you should see this:
@@ -28,4 +28,4 @@ Query OK, 0 rows affected (0.12 sec)
 Records: 0  Duplicates: 0  Warnings: 0
 ```
 
-Can you guess what happens if you omit the data type when defining a new column name? 
+Can you guess what happens if you omit the data type when defining a new column name or adding a new column?

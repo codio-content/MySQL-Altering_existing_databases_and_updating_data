@@ -7,7 +7,7 @@ The `ALTER TABLE` SQL statement can perform 3 basic types of operations:
 - `ADD`
 Adds columns together with its data types to an existing table
 - `CHANGE`
-Updates the name of an existing table column as well as its data type
+Updates the name of an existing table column as well as its data type definition
 - `DROP`
 Deletes or removes columns (and their data)
 

@@ -10,11 +10,8 @@ You should see this:
 +--------------------+
 | information_schema |
 | EPDriver           |
-| mysql              |
-| performance_schema |
-| test               |
+| ... more db's      |
 +--------------------+
-5 rows in set (0.00 sec)
 ```
 
 Use the `EPDriver` schema and display its tables:

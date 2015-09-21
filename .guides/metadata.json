@@ -132,6 +132,17 @@
    "teacherOnly": false
   },
   {
+   "id": "5a709c0d-b477-4010-1886-3f346717a745",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-28-5a70.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "aa3a3591-d923-edc6-8ad0-c6caccfc32f8",
    "title": "Update multiple columns",
    "files": [],

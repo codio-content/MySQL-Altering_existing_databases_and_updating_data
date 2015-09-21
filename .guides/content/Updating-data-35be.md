@@ -1,6 +1,6 @@
-We know that the `trips` table `id`'s that are missing `trip_datetime_end` and `total_fare` values are `4`, `7` and `9`.
+We know that the `trips` table `id`'s that are missing the `trip_datetime_end` and `total_fare` values are `4`, `7` and `9`.
 
-In the `mysql>` prompt, execute an `UPDATE` SQL statement to mark the trip `7` as finished. This time, let's do a __multi-line query__ (press enter after each line):
+In the `mysql>` prompt, execute an `UPDATE` SQL statement to mark the trip `7` as finished with a _datetime_ format. This time, let's do a __multi-line query__ (press enter after each line and end the statement with a semicolon):
 
 ```
 mysql> UPDATE trips 
@@ -20,7 +20,7 @@ Let's understand each of the `UPDATE` statement parts:
 1. `UPDATE trips`
 Begin the SQL update statement specifying the table name
 2. `SET trip_datetime_end = '2015-09-15 23:15:33'`
-The `SET` keyword gives the instruction for _setting_ new values to rows. In this case, the values are a `DATETIME` data type with the format: 'YYYY-MM-DD 00:00:00'
+The `SET` keyword gives the instruction for _setting_ new values to rows. In this case, the values are a `DATETIME` data type with the format: 'YYYY-MM-DD 00:00:00'. _Single or double quotes are required_.
 3. `WHERE id = 7;`
 Finally, the `WHERE` clause specifies the specific row to be updated. In this case, where the `id` column equals 7
 

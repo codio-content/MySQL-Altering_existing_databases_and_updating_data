@@ -1,4 +1,4 @@
-After having omitted the `WHERE` clause, doing a `SELECT * FROM users;` should display the following table:
+After having omitted the `WHERE` clause, doing a `SELECT * FROM EPDriver.users;` should display the following table:
 
 ```
 +----+-----------------+-----------------+

@@ -8,7 +8,6 @@ By the end of this unit you will:
 - `ALTER` existing table column datatype definitions
 - `ALTER` table names
 - `ADD` columns to an existing table
-- Change database names
 
 Are you ready? 
 
