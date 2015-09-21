@@ -49,7 +49,18 @@
   {
    "id": "7b8719de-f360-da5d-84ea-549ffae3f6d1",
    "title": "Showing column data",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Showing-column-data-7b87.md",
@@ -60,7 +71,13 @@
   {
    "id": "f457d427-15fa-7ca-9ad8-9af47771632f",
    "title": "Float and Datetime",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Float-and-Datetime-f457.md",
@@ -71,7 +88,13 @@
   {
    "id": "29faa63d-27c2-4f18-9740-93427bf83d13",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-29fa.md",
@@ -82,8 +105,13 @@
   {
    "id": "ac6ca750-f3cf-8af9-1011-b38ae5b7f006",
    "title": "Data modification",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Data-modification-ac6c.md",
@@ -94,7 +122,18 @@
   {
    "id": "7d65c3b3-2b69-92f5-2f37-7c10bbdd4917",
    "title": "SQL UPDATE",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-UPDATE-7d65.md",
@@ -106,6 +145,10 @@
    "id": "74bb7379-d41b-a55e-fcbe-bb22fa2486f3",
    "title": "Updating data",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": "#terminal: mysql",
      "panel": 0,
@@ -123,7 +166,18 @@
   {
    "id": "35be4f06-a75d-6db3-42f5-e174aa43b8d0",
    "title": "Updating data",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Updating-data-35be.md",
@@ -134,10 +188,21 @@
   {
    "id": "5a709c0d-b477-4010-1886-3f346717a745",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-28-5a70.md",
+   "content-file": ".guides/content/Challenge-5a70.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -145,7 +210,18 @@
   {
    "id": "aa3a3591-d923-edc6-8ad0-c6caccfc32f8",
    "title": "Update multiple columns",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Update-multiple-columns-aa3a.md",
@@ -156,7 +232,18 @@
   {
    "id": "dbf2ebce-e306-7173-6fdf-2b08cc37d578",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-dbf2.md",
@@ -167,8 +254,13 @@
   {
    "id": "740ffb0a-ba39-df8e-163f-693b49d12d",
    "title": "Real world scenario",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Real-world-scenario-740f.md",
@@ -179,8 +271,18 @@
   {
    "id": "a4acd8e5-fdb3-3095-e3d2-5d994c6b31ba",
    "title": "Omitting WHERE",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Omitting-WHERE-a4ac.md",
@@ -191,7 +293,18 @@
   {
    "id": "d55b9221-ae0-1474-84d6-9d945223864",
    "title": "Output",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Output-d55b.md",
@@ -202,7 +315,18 @@
   {
    "id": "7d24dea7-782f-bb73-1e7a-a7feab8685cb",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-7d24.md",
@@ -213,8 +337,13 @@
   {
    "id": "d9561f3-8435-4d4f-f651-1212f380a5f8",
    "title": "Altering tables",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Altering-tables-d956.md",
@@ -225,7 +354,18 @@
   {
    "id": "af0341aa-e332-5d8c-b8a9-a85a25795e4f",
    "title": "Alter, Change",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Alter--Change-af03.md",
@@ -236,7 +376,18 @@
   {
    "id": "f55060cc-a325-5287-8ce4-f8ac8aa7976",
    "title": "Alter, Add",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Alter--Add-f550.md",
@@ -258,8 +409,18 @@
   {
    "id": "7ad4e811-7f18-6c28-8c27-8330d95362",
    "title": "Renaming tables",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Renaming-tables-7ad4.md",
@@ -270,7 +431,18 @@
   {
    "id": "6026cc40-5df3-89b-2e73-69c830b715bc",
    "title": "Examples",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Examples-6026.md",
@@ -292,8 +464,18 @@
   {
    "id": "a160c4a9-e303-9364-eb6c-d8f4319c34b8",
    "title": "Final challenges",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Final-challenges-a160.md",
@@ -304,7 +486,18 @@
   {
    "id": "a155d1e6-4136-2f3-c85b-f9e94f3cb889",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-a155.md",
@@ -315,7 +508,18 @@
   {
    "id": "c0c751d1-82d7-18e4-2df7-50fb7a7f72d9",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-c0c7.md",
@@ -326,8 +530,13 @@
   {
    "id": "5c185231-d064-f994-eeec-7611a309a459",
    "title": "That's all folks",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/That-s-all-folks-5c18.md",

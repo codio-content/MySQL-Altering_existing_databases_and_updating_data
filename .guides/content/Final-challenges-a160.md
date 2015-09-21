@@ -11,7 +11,7 @@ Complete the final challenges and evaluate your understanding of the `UPDATE`, `
 `CREATE DATABASE App;`
 
 ```
-CREATE TABLE App.settings (
+CREATE TABLE settings (
 	 user_id INT(7) NOT NULL,
 	 email_frequency TINYINT(2) UNSIGNED DEFAULT 15,
 	 layout VARCHAR(70) DEFAULT "vertical",

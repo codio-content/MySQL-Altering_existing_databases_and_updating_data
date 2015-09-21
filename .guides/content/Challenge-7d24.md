@@ -2,12 +2,8 @@
 
 
 |||guidance
-### Correct answers:
-
-`SELECT name FROM EPDriver.users ORDER BY id ASC;`
+### Correct answer:
 
 `UPDATE EPDriver.users SET name = 'John Doe';`
-
-`SELECT id FROM EPDriver.users WHERE name = 'John Doe';`
 
 |||
