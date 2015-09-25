@@ -1,3 +1,11 @@
+|||info
+### Reset section database
+If you make a mistake while editing the `EPCars` database in this set of sections or just want to reset the database back to its original state, return to this page and click the “Reset Section Database” button below.
+
+{Reset Section Database}(node .guides/sqltests/fw-sql-reset-epcars.js)
+|||
+---
+
 An `EPCars` database has been created for you.
 
 Practice the different ways in which a database table can be updated by executing the following commands: 

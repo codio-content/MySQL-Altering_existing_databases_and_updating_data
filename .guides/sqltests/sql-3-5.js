@@ -2,7 +2,7 @@ var sqltest = require('./fw-sqltests.js');
 
 var tasks = [
 	[
-		"Create a 'App' database",
+		"Create an 'App' database",
 		"USE App"
 	],
 	[

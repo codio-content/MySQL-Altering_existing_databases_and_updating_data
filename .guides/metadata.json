@@ -25,6 +25,23 @@
    "teacherOnly": false
   },
   {
+   "id": "eef6e1a-6cea-cc6d-c2cc-b3e51ffd1e34",
+   "title": "Resetting the units' databases",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Resetting-the-units--databases-eef6.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "58909ba3-8a67-cd13-763d-b4a1c3b5c777",
    "title": "Analysing the schema",
    "files": [

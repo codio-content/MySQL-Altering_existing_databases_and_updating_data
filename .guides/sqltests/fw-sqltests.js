@@ -37,9 +37,9 @@ function test(){
 		return new Promise(function(resolve, reject){
 			connectTo(db);
 			connection.query(query, function(err, rows, fields) {
-				if (err || rows.length < 1)
-          errorLogs.queryMismatch(count+1, tasksArr[count][0]);
-				// console.log(rows.length);
+				if (err)
+					errorLogs.queryMismatch(count+1, tasksArr[count][0]);
+				// console.log(rows);
 				count++;
 				test();
 			});
@@ -50,27 +50,22 @@ function test(){
 	}
 }
 
-
 // Reset environment
-var resetCount = 0;
 function reset(){
-	if (resetCount < resetArr.length) {
-		var query = resetArr[resetCount];
+	if (count < tasksArr.length) {
+		var query = tasksArr[count][1];
 		return new Promise(function(resolve, reject){
 			connectTo(db);
 			connection.query(query, function(err, rows, fields) {
-				console.log(query);
 				if (err)
-					console.log(err);
-				resetCount++;
+					errorLogs.resetFailed(tasksArr[count][0]);
+				// console.log(rows);
+				count++;
 				reset();
 			});
 		});
 	} else {
-		console.log(count);
-		console.log(tasksArr[count]);
-		errorLogs.queryMismatch(count+1, tasksArr[count][0]);
-		resolve();
+		errorLogs.reset(tasksArr[count-1][0]);
 	}
 }
 
@@ -80,4 +75,9 @@ function reset(){
 exports.init = function(tasks, dbName) {
 	tasksArr = tasks, db = dbName;
 	test();
+}
+
+exports.reset = function(tasks, dbName) {
+	tasksArr = tasks, db = dbName;
+	reset();
 }

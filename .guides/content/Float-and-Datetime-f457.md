@@ -6,7 +6,7 @@ This time, we present the use of the `FLOAT(size,d)` and the `DATETIME` data typ
 
 The `Float(size,d)` data type represents a small number with a floating decimal point.
 
-The maximum number of digits may be specified in the `size` parameter. 
+The maximum number of digits to the left of the decimial point is specified in the `size` parameter.
 
 The maximum number of digits to the right of the decimal point is specified in the `d` parameter.
 
