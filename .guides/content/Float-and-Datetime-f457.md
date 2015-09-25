@@ -1,4 +1,4 @@
-If you followed along with the previous unit, you must remember some of the SQL data types. 
+If you followed along with the previous unit, you will remember some of the SQL data types.
 
 This time, we present the use of the `FLOAT(size,d)` and the `DATETIME` data types:
 

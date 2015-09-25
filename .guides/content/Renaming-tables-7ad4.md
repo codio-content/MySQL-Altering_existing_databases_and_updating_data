@@ -22,4 +22,4 @@ Execute a `SHOW TABLES;` statement and see this output:
 ```
 
 ---
-In the next couple of sections, we will be working with several examples to reinforce the topics we just covered.
+In the next couple of sections, we will be working with several examples to reinforce this.

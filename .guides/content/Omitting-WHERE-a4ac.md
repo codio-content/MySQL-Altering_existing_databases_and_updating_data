@@ -20,11 +20,13 @@ Let's inspect the `users` table of the `EPDriver` database by executing the `SEL
 
 |||info
 ### TINYINT(size) MySQL data type
-The `registered_card` column is defined with a `TINYINT(size)` MySQL data type. Its values may only range from -128 to 127 where `0` is a `false` value and `1-127` represent a `true` value.
+The `registered_card` column is defined with a `TINYINT(size)` MySQL data type. Its values may only range from -128 to 127.
 
-`TINYINT(size)` MySQL data types are similar to the `BOOLEAN` data types in other SQL database management systems where the values can be literally `true` or `false` generally used for conditional statements (if, else, else if).
+A value of `0` will always be considered a `false` value whereas any non-zero value `-128 > -1` and `1 < 127` represent a `true` value.
 
-The `UNSIGNED` keyword makes the `TINYINT(size)` data type to start only from 0 and allow no negative values.
+`TINYINT(size)` MySQL data types are similar to the `BOOLEAN` data types in other SQL database management systems where the values can be literally `true` or `false` and  generally used for conditional statements (if, else, else if).
+
+The `UNSIGNED` keyword makes the `TINYINT(size)` data type to start only from `0` and allow no negative values.
 
 |||
 ---

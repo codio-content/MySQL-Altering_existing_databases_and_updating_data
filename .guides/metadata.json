@@ -252,23 +252,6 @@
    "teacherOnly": false
   },
   {
-   "id": "740ffb0a-ba39-df8e-163f-693b49d12d",
-   "title": "Real world scenario",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Real-world-scenario-740f.md",
-   "chapter": true,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "a4acd8e5-fdb3-3095-e3d2-5d994c6b31ba",
    "title": "Omitting WHERE",
    "files": [
@@ -331,6 +314,23 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-7d24.md",
    "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "740ffb0a-ba39-df8e-163f-693b49d12d",
+   "title": "Real world scenario",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-world-scenario-740f.md",
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },

@@ -1,6 +1,6 @@
-A `EPCars` database has been created for you.
+An `EPCars` database has been created for you.
 
-Practice the different ways in which a database table can be _udpated_ by executing the following commands: 
+Practice the different ways in which a database table can be updated by executing the following commands: 
 
 Use the `EPCars` database and show its tables: 
 

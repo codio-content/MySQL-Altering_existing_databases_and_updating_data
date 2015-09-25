@@ -1,4 +1,4 @@
-You guessed right. An error would ocurr if you forget to define the data type to the new or existing table column.
+You guessed right. An error would occur if you forget to define the data type to the new or existing table column.
 
 Just as when we _create_ a new database table where column names must be defined with data types and constraints, the `ALTER TABLE t_name ADD column data_type();` SQL statement, designed to add columns to a table, needs to have the proper information. 
 

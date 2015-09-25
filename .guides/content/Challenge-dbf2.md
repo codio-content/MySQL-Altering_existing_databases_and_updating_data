@@ -1,5 +1,8 @@
 {Check It!|assessment}(test-2648162698)
 
+---
+Let's experiment with omitting the `WHERE` clause in the `UPDATE` statement to see what happens to the tables if we don't have such caution.
+
 
 |||guidance
 ### Correct answer:

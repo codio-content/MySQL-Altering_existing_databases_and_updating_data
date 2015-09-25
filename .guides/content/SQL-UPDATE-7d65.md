@@ -1,6 +1,6 @@
 ### Introducing the `UPDATE` SQL keyword
 
-The `UPDATE` SQL keyword let us __update the records from existing database tables__.
+The `UPDATE` SQL keyword lets us __update the records from existing database tables__.
 
 Let's inspect the data from the `trips` table: 
 
@@ -28,4 +28,5 @@ You should see this output:
 10 rows in set (0.00 sec)
 ```
 
-We'll keep an eye on the `id`'s where the user hasn't finished the trip yet. Can you guess which `id`'s are these?
+We'll keep an eye on the `id`'s where the user hasn't finished the trip yet. 
+Can you guess which `id`'s these are?

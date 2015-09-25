@@ -15,7 +15,9 @@ We learned that databases are sometimes called schemas and that the `CREATE SCHE
 
 Table definition is a little bit more complex in the way that we need to define the __table datatypes and constraints__.
 
-The _PRIMARY KEY_ and the _NOT NULL_ constraints resulted useful as we improve the functionality and reliability of our database tables.
+By defining the _PRIMARY KEY_ and the _NOT NULL_ SQL constraints we improve the functionality and reliability of our database tables.
+
+On the other hand when we *AUTO_INCREMENT* a _number-type_ field, we automate the insertion of fields like the `id` column's.
 
 ### Inserting data
 

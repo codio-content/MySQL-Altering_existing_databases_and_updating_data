@@ -1,4 +1,4 @@
-Let's take a closer look to the `trips` table `id`'s where the user hasn't finished the trip yet:
+Let's take a closer look at the `trips` table `id`'s where the user hasn't finished the trip yet:
 
 Execute the `SELECT * FROM trips WHERE trip_datetime_end IS NULL;` statement to accomplish this:
 
