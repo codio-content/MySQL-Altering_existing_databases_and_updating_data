@@ -4,8 +4,10 @@
 |||guidance
 ### Correct answers:
 
-`ALTER TABLE EPDriver.drivers CHANGE COLUMN name driver_name VARCHAR(125) NOT NULL;`
+`USE EPDriver;`
 
-`ALTER TABLE EPDriver.drivers ADD COLUMN driver_age TINYINT(2) UNSIGNED NOT NULL;`
+`ALTER TABLE drivers CHANGE COLUMN name driver_name VARCHAR(125) NOT NULL;`
+
+`ALTER TABLE drivers ADD COLUMN driver_age TINYINT(2) UNSIGNED NOT NULL;`
 
 |||

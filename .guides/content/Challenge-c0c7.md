@@ -4,6 +4,8 @@
 |||guidance
 ### Correct answers:
 
-`RENAME TABLE App.settings TO App.user_settings;`
+`USE App;`
+
+`RENAME TABLE settings TO App.user_settings;`
 
 |||

@@ -7,6 +7,8 @@ Let's experiment with omitting the `WHERE` clause in the `UPDATE` statement to s
 |||guidance
 ### Correct answer:
 
+`USE EPDriver;`
+
 `UPDATE trips SET trip_datetime_start = '2015-09-14 00:00:00' WHERE id < 5;`
 
 |||

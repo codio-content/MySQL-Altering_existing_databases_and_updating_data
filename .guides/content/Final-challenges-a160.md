@@ -18,6 +18,8 @@ Complete the final challenges and evaluate your understanding of the `UPDATE`, `
 
 `CREATE DATABASE App;`
 
+`USE App;`
+
 ```
 CREATE TABLE settings (
 	 user_id INT(7) NOT NULL,

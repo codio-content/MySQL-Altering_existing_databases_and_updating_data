@@ -4,6 +4,8 @@
 |||guidance
 ### Correct answer:
 
-`UPDATE EPDriver.users SET name = 'John Doe';`
+`USE EPDriver;`
+
+`UPDATE users SET name = 'John Doe';`
 
 |||
