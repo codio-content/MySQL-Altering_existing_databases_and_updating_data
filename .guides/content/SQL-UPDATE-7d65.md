@@ -2,7 +2,9 @@
 
 The `UPDATE` SQL keyword lets us __update the records from existing database tables__.
 
-Let's inspect the data from the `trips` table: 
+Let's inspect the data from the `trips` table.
+
+First, do a `USE EPDriver;` to _use_ the appropiate database and then:
 
 ```
 mysql> SELECT * FROM trips;

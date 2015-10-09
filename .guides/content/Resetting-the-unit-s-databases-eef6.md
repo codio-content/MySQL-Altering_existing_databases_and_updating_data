@@ -1,1 +1,1 @@
-If you make a mistake while editing any of the unit’s databases or just want to reset the databases back to their original state, click the “Reset Database Section” button that is available in the relevant sections.
+If you make a mistake while editing any of the unit’s databases or just want to reset the databases back to their original state, click the “Reset Section Database” button that is available in the relevant sections.

@@ -36,7 +36,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Resetting-the-units--databases-eef6.md",
+   "content-file": ".guides/content/Resetting-the-unit-s-databases-eef6.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
@@ -66,18 +66,8 @@
   {
    "id": "7b8719de-f360-da5d-84ea-549ffae3f6d1",
    "title": "Showing column data",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Showing-column-data-7b87.md",
@@ -161,18 +151,8 @@
   {
    "id": "74bb7379-d41b-a55e-fcbe-bb22fa2486f3",
    "title": "Updating data",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Updating-data-74bb.md",
@@ -183,18 +163,8 @@
   {
    "id": "35be4f06-a75d-6db3-42f5-e174aa43b8d0",
    "title": "Updating data",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Updating-data-35be.md",
@@ -205,18 +175,8 @@
   {
    "id": "5a709c0d-b477-4010-1886-3f346717a745",
    "title": "Challenge",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-5a70.md",
@@ -227,18 +187,8 @@
   {
    "id": "aa3a3591-d923-edc6-8ad0-c6caccfc32f8",
    "title": "Update multiple columns",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Update-multiple-columns-aa3a.md",
@@ -249,17 +199,7 @@
   {
    "id": "dbf2ebce-e306-7173-6fdf-2b08cc37d578",
    "title": "Challenge",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
+   "files": [],
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
@@ -293,18 +233,8 @@
   {
    "id": "d55b9221-ae0-1474-84d6-9d945223864",
    "title": "Output",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Output-d55b.md",
@@ -315,18 +245,8 @@
   {
    "id": "7d24dea7-782f-bb73-1e7a-a7feab8685cb",
    "title": "Challenge",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-7d24.md",
@@ -360,7 +280,7 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Altering-tables-d956.md",
@@ -382,7 +302,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Alter--Change-af03.md",
@@ -393,18 +313,8 @@
   {
    "id": "f55060cc-a325-5287-8ce4-f8ac8aa7976",
    "title": "Alter, Add",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Alter--Add-f550.md",
@@ -416,6 +326,7 @@
    "id": "41252774-bdc4-2d12-7df1-ff4b57e7487",
    "title": "Challenge",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-4125.md",
@@ -448,18 +359,8 @@
   {
    "id": "6026cc40-5df3-89b-2e73-69c830b715bc",
    "title": "Examples",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Examples-6026.md",
@@ -471,6 +372,7 @@
    "id": "38c29dc2-e4f9-a464-39f6-58ee5a369fab",
    "title": "Examples",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Examples-38c2.md",
@@ -503,18 +405,8 @@
   {
    "id": "a155d1e6-4136-2f3-c85b-f9e94f3cb889",
    "title": "Challenge",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-a155.md",
@@ -525,18 +417,8 @@
   {
    "id": "c0c751d1-82d7-18e4-2df7-50fb7a7f72d9",
    "title": "Challenge",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-c0c7.md",

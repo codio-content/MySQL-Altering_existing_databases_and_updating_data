@@ -24,6 +24,27 @@ If you had no backup of your database before having done this, unfortunately, th
 
 We'll talk about database backups, performance and security measures in future units.
 
+|||info
+### Noticed the `EPDriver.users;` syntax?
+
+This SQL _dot syntax_ lets you specify the database and the table in a single statement, without having to `USE` the database everytime you query its tables.
+
+### Examples: 
+
+```
+mysql> SELECT * FROM db_name.table_name;
+```
+
+```
+mysql> CREATE TABLE db_name.table_name (...);
+```
+
+```
+mysql> INSERT INTO db_name.table_name VALUES (...);
+```
+
+|||
+
 --- 
 
 Ready for a challenge? Go to the next section.

@@ -15,10 +15,10 @@ The output should be this:
 ```
 
 |||info
-### Remember to `USE` databases
-Whenever you leave the unit and come back again later, the terminal is going to open a new `mysql>` prompt automatically. 
+### Understanding the `No database selected` 
+### SQL error
 
-Just in case you get an `ERROR 1046 (3D000): No database selected;` error prompt, make sure you switch to the right database using the `USE db_name;` command in order for the commands we present in this unit to work properly.
+In case you get an `ERROR 1046 (3D000): No database selected;` SQL error prompt, make sure you switch to the right database using the `USE db_name;` command in order for the commands we present in this unit to work properly.
 
 |||
 
