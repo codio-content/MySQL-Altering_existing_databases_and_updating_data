@@ -11,7 +11,7 @@ var tasks = [
   ],
   [
     "Add a new driver_age column to the drivers table with the specified data type",
-    "show columns from EPDriver.drivers where Field = 'driver_age' and Type = 'tinyint(2)'"
+    "show columns from EPDriver.drivers where Field = 'driver_age' and Type = 'tinyint(2) unsigned'"
   ]
 ];
 

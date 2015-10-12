@@ -6,7 +6,7 @@ var tasks = [
 		"USE App"
 	],
 	[
-		"Using dot syntax, create a 'settings' table in the 'App' database with the specified features",
+		"Create a 'settings' table in the 'App' database with the specified features",
 		"SHOW COLUMNS FROM App.settings WHERE Field = 'email_frequency' AND Type = 'tinyint(2) unsigned'"
 	]
 ];

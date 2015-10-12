@@ -23,13 +23,13 @@ Complete the final challenges and evaluate your understanding of the `UPDATE`, `
 Single line statement:
 
 ```
-CREATE TABLE settings (user_id INT(7) NOT NULL,email_frequency TINYINT(2) UNSIGNED DEFAULT 15,layout VARCHAR(70) DEFAULT "vertical",updated_at DATETIME);
+CREATE TABLE App.settings (user_id INT(7) NOT NULL,email_frequency TINYINT(2) UNSIGNED DEFAULT 15,layout VARCHAR(70) DEFAULT "vertical",updated_at DATETIME);
 ```
 
 Multi-line statement:
 
 ```
-mysql> CREATE TABLE settings (
+mysql> CREATE TABLE App.settings (
 	  -> user_id INT(7) NOT NULL,
 	  -> email_frequency TINYINT(2) UNSIGNED DEFAULT 15,
 	  -> layout VARCHAR(70) DEFAULT "vertical",

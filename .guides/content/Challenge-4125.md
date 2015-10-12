@@ -25,7 +25,7 @@ mysql> ALTER TABLE drivers
 
 ```
 mysql> ALTER TABLE drivers 
-    -> ADD COLUMN driver_age TINYINT(2) UNSIGNED NOT NULL;
+    -> ADD COLUMN driver_age TINYINT(2) UNSIGNED NOT NULL; 
 ```
 
 |||
