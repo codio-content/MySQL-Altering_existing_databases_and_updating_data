@@ -39,9 +39,13 @@ function test(){
 			connection.query(query, function(err, rows, fields) {
 				if (err)
 					errorLogs.queryMismatch(count+1, tasksArr[count][0]);
+        if (rows.length < 1) {
+          errorLogs.queryMismatch(count+1, tasksArr[count][0]);
+        } else {
+          count++;
+  				test();
+        }
 				// console.log(rows);
-				count++;
-				test();
 			});
 		});
 	} else {

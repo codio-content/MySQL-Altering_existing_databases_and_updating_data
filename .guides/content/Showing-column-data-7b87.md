@@ -11,7 +11,7 @@ The output should be this:
 | trip_datetime_end   | datetime    | YES  |     | NULL     |                |
 | trip_total_fare     | float(8,2)  | YES  |     | 0.00     |                |
 +---------------------+-------------+------+-----+----------+----------------+
-6 rows in set (0.00 sec)
+4 rows in set (0.00 sec)
 ```
 
 |||info
