@@ -10,7 +10,7 @@ Execute the `SELECT * FROM trips WHERE trip_datetime_end IS NULL;` statement to 
 |  7 | 2015-09-15 15:48:41 | NULL                |            0.00 |
 |  9 | 2015-09-15 10:00:08 | NULL                |            0.00 |
 +----+---------------------+---------------------+-----------------+
-10 rows in set (0.00 sec)
+3 rows in set (0.00 sec)
 ```
 
 |||info

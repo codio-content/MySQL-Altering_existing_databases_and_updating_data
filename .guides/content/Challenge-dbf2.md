@@ -9,6 +9,16 @@ Let's experiment with omitting the `WHERE` clause in the `UPDATE` statement to s
 
 `USE EPDriver;`
 
+Single line statement:
+
 `UPDATE trips SET trip_datetime_start = '2015-09-14 00:00:00' WHERE id < 5;`
+
+Multi-line statement:
+
+```
+mysql> UPDATE trips 
+    -> SET trip_datetime_start = '2015-09-14 00:00:00' 
+    -> WHERE id < 5;
+```
 
 |||
