@@ -1,3 +1,3 @@
-In order to complete our _CRUD_ knowledge, we are missing the `DELETE` SQL keyword. 
+Last but not least, the `DELETE` keyword will allow you to remove table records.
 
-We will cover this in the next unit.
+Complete your _CRUD_ knowledge, with the `DELETE` SQL keyword in the next unit.
