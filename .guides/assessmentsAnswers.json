@@ -1,0 +1,79 @@
+[
+ {
+  "taskId": "test-1094132187",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751721089,
+    "output": "[Error]: Task 1. Expected: Rename the settings table to be: user_settings. Try again.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-1960553382",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751694836,
+    "output": "[Error]: Task 1. Expected: Change the name of the name column of the drivers table to driver_name and the specified data type. Try again.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-1992545037",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751678500,
+    "output": "[Error]: Task 1. Expected: Set the name column from the users table to John Doe, omit the WHERE clause. Try again.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-2098680248",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751712389,
+    "output": "[Error]: Task 1. Expected: Create an 'App' database. Try again.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-224830583",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751643789,
+    "output": "[Error]: Task 1. Expected: Update the trip_total_fare column of the trips table with the specified values. Try again.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-2648162698",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751663200,
+    "output": "[Error]: Task 1. Expected: Set all the records from the trip_datetime_start column of the trips table to the specified values. Try again.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-2696001336",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751716796,
+    "output": "[Error]: Task 1. Expected: Insert into the App.settings table the specified values. Try again.",
+    "code": 1
+   }
+  ]
+ }
+]
