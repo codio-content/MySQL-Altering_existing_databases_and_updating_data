@@ -1,7 +1,7 @@
 **Learn how to alter database tables and update existing table rows.**
 
 
-- The public GitHub repository for this unit can be found at [https://github.com/codio-content/MySQL-What_is_a_database](https://github.com/codio-content/MySQL-Altering_existing_databases_and_updating_data).
+- The public GitHub repository for this unit can be found at [https://github.com/codio-content/MySQL-Altering_existing_databases_and_updating_data](https://github.com/codio-content/MySQL-Altering_existing_databases_and_updating_data).
 
 - For more information on other units in the MySQL course go to [Course-:-MySQL](https://github.com/codio-content/Information/wiki/Course-:-MySQL)
 
