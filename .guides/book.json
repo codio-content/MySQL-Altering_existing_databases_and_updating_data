@@ -1,0 +1,198 @@
+{
+ "name": "MySQL-Altering_existing_databases_and_updating_data",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "ef8c4cb0-5587-bf1b-9721-2ac14e82539f",
+   "pageId": "ef8c4cb0-5587-bf1b-9721-2ac14e82539f",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "What we'll learn",
+   "id": "7deb73fb-9a7e-f60c-2ba8-f5e138b0bf45",
+   "pageId": "7deb73fb-9a7e-f60c-2ba8-f5e138b0bf45",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Resetting the unit's databases",
+   "id": "eef6e1a-6cea-cc6d-c2cc-b3e51ffd1e34",
+   "pageId": "eef6e1a-6cea-cc6d-c2cc-b3e51ffd1e34",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Analysing the schema",
+   "id": "58909ba3-8a67-cd13-763d-b4a1c3b5c777",
+   "pageId": "58909ba3-8a67-cd13-763d-b4a1c3b5c777",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Showing column data",
+     "id": "7b8719de-f360-da5d-84ea-549ffae3f6d1",
+     "pageId": "7b8719de-f360-da5d-84ea-549ffae3f6d1",
+     "type": "page"
+    },
+    {
+     "title": "Float and Datetime",
+     "id": "f457d427-15fa-7ca-9ad8-9af47771632f",
+     "pageId": "f457d427-15fa-7ca-9ad8-9af47771632f",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "29faa63d-27c2-4f18-9740-93427bf83d13",
+     "pageId": "29faa63d-27c2-4f18-9740-93427bf83d13",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Data modification",
+   "id": "ac6ca750-f3cf-8af9-1011-b38ae5b7f006",
+   "pageId": "ac6ca750-f3cf-8af9-1011-b38ae5b7f006",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "SQL UPDATE",
+     "id": "7d65c3b3-2b69-92f5-2f37-7c10bbdd4917",
+     "pageId": "7d65c3b3-2b69-92f5-2f37-7c10bbdd4917",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Updating data",
+   "id": "74bb7379-d41b-a55e-fcbe-bb22fa2486f3",
+   "pageId": "74bb7379-d41b-a55e-fcbe-bb22fa2486f3",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Updating data",
+     "id": "35be4f06-a75d-6db3-42f5-e174aa43b8d0",
+     "pageId": "35be4f06-a75d-6db3-42f5-e174aa43b8d0",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "5a709c0d-b477-4010-1886-3f346717a745",
+     "pageId": "5a709c0d-b477-4010-1886-3f346717a745",
+     "type": "page"
+    },
+    {
+     "title": "Update multiple columns",
+     "id": "aa3a3591-d923-edc6-8ad0-c6caccfc32f8",
+     "pageId": "aa3a3591-d923-edc6-8ad0-c6caccfc32f8",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "dbf2ebce-e306-7173-6fdf-2b08cc37d578",
+     "pageId": "dbf2ebce-e306-7173-6fdf-2b08cc37d578",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Omitting WHERE",
+   "id": "a4acd8e5-fdb3-3095-e3d2-5d994c6b31ba",
+   "pageId": "a4acd8e5-fdb3-3095-e3d2-5d994c6b31ba",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Output",
+     "id": "d55b9221-ae0-1474-84d6-9d945223864",
+     "pageId": "d55b9221-ae0-1474-84d6-9d945223864",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "7d24dea7-782f-bb73-1e7a-a7feab8685cb",
+     "pageId": "7d24dea7-782f-bb73-1e7a-a7feab8685cb",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Real world scenario",
+   "id": "740ffb0a-ba39-df8e-163f-693b49d12d",
+   "pageId": "740ffb0a-ba39-df8e-163f-693b49d12d",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Altering tables",
+   "id": "d9561f3-8435-4d4f-f651-1212f380a5f8",
+   "pageId": "d9561f3-8435-4d4f-f651-1212f380a5f8",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Alter, Change",
+     "id": "af0341aa-e332-5d8c-b8a9-a85a25795e4f",
+     "pageId": "af0341aa-e332-5d8c-b8a9-a85a25795e4f",
+     "type": "page"
+    },
+    {
+     "title": "Alter, Add",
+     "id": "f55060cc-a325-5287-8ce4-f8ac8aa7976",
+     "pageId": "f55060cc-a325-5287-8ce4-f8ac8aa7976",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "41252774-bdc4-2d12-7df1-ff4b57e7487",
+     "pageId": "41252774-bdc4-2d12-7df1-ff4b57e7487",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Renaming tables",
+   "id": "7ad4e811-7f18-6c28-8c27-8330d95362",
+   "pageId": "7ad4e811-7f18-6c28-8c27-8330d95362",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Examples",
+     "id": "6026cc40-5df3-89b-2e73-69c830b715bc",
+     "pageId": "6026cc40-5df3-89b-2e73-69c830b715bc",
+     "type": "page"
+    },
+    {
+     "title": "Examples",
+     "id": "38c29dc2-e4f9-a464-39f6-58ee5a369fab",
+     "pageId": "38c29dc2-e4f9-a464-39f6-58ee5a369fab",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Final challenges",
+   "id": "a160c4a9-e303-9364-eb6c-d8f4319c34b8",
+   "pageId": "a160c4a9-e303-9364-eb6c-d8f4319c34b8",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "a155d1e6-4136-2f3-c85b-f9e94f3cb889",
+     "pageId": "a155d1e6-4136-2f3-c85b-f9e94f3cb889",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "c0c751d1-82d7-18e4-2df7-50fb7a7f72d9",
+     "pageId": "c0c751d1-82d7-18e4-2df7-50fb7a7f72d9",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "That's all folks",
+   "id": "5c185231-d064-f994-eeec-7611a309a459",
+   "pageId": "5c185231-d064-f994-eeec-7611a309a459",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
